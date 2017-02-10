@@ -61,7 +61,7 @@ First make sure that the point size is large enough. On screens, somewhere in th
 
 Next, make sure your line spacing is appropriate and enhances the legibility of your content rather than detract from it. Line spacing, or "leading" in traditional print media, should be somewhere between 120% and 145% of the font size. This assures that your lines of text have room to breathe.
 
-And remember: every typeface is different. Just because 14px is easily legible in a sturdy sans-serif, doesn't mean that it will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
+And remember: every typeface is different. Just because 14px might be easily legible in a sturdy sans-serif, doesn't mean that 14px will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
 
 
 ### Anatomy of a Letterform
