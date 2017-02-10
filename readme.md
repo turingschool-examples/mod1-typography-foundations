@@ -20,6 +20,13 @@ Typography is a cornerstone of graphic design. The way we arrange letters and wo
 
 The font choices you make have very real implications on how your user interprets and understands the content. For example: would you really take someone seriously if they set their resume in Papyrus, even if they had solid work experience? At the very least, it would make you question their judgement and their professionalism. At worst, you might pass on them completely because it would be difficult to consider them a serious candidate.
 
+***
+
+> #### *"Sometimes I get emotional over fonts"* - Kanye West
+
+***
+
+
 ### Font vs Typeface
 
 You've probably heard these two terms tossed around and used interchangeably, but they're actually two different things. A font is not a typeface and a typeface is not a font. Knowing the difference is the first step in understanding typography, so let's talk about what that is:
