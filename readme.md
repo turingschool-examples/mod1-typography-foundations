@@ -59,11 +59,11 @@ Sans serif fonts are generally considered easier to read in large blocks of text
 
 When assessing what the most appropriate font size is for your content, it is typically best to start with your body text. We do this because body text generally is set in dense blocks of copy which means it has the potential to be the most difficult content on the page to read.
 
-First make sure that the point size is large enough. On screens, somewhere in the range of 14-24px is easiest to read.
+First make sure that the point size is large enough. For body copy on screens, somewhere in the range of 14px-24px is typically easiest to read.
 
-Next, make sure your line spacing is appropriate and enhances the legibility of your content rather than detract from it. Line spacing, or "leading" in traditional print media, should be somewhere between 120% and 145% of the font size. This assures that your lines of text have room to breathe.
+Next, make sure your line spacing is appropriate and enhances the legibility of your content rather than detract from it. Line spacing, or "leading" in traditional print media, should be somewhere between 120% and 145% of the font size. This assures that your lines of text have room to breathe. If it's too tight, your lines of text will visually mash into each other and legibility will take a nose dive.
 
-And remember: every typeface is different. Just because 14px might be easily legible in a sturdy sans-serif, doesn't mean that 14px will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
+And remember: every typeface and use case is different. Just because 14px might be easily legible in a sturdy sans-serif, doesn't mean that 14px will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
 
 
 ### Anatomy of a Letterform
