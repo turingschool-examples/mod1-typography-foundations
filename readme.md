@@ -53,7 +53,15 @@ Serif fonts are seen in historic documents and type examples, and were used in e
 
 Sans serif fonts are a more modern approach to type design, and they were used with great success in the famous Swiss Style of the 20th Century. Despite the name, this style gained traction not only in Switzerland but in Russia, Germany, and the Netherlands in the 1920's before becoming a true international movement in the 1960's. In an effort to find beauty in purpose and simplicity, sans serif typefaces were created to follow the idea that "form follows function". These principles are highly relevant to the web, and this [Smashing Magazine article](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/) is a fantastic dive into the history and modern applications of sans serif typefaces and the deep reaching influences of Swiss, or more correctly, International Style.
 
-<!-- ### Font Size and Line Height -->
+### Font Size and Line Height
+
+When assessing what the best font size is, it is typically best to start with your body text. We do this because body text generally is set in dense blocks of copy which means it has the potential to be the most difficult content on the page to read.
+
+First make sure that the point size is large enough. On screens, somewhere in the range of 14-24px is easiest to read.
+
+Next, make sure your line spacing is appropriate and enhances the legibility of your content rather than detract from it. Line spacing, or "leading" in traditional print media, should be somewhere between 120% and 145% of the font size. This assures that your lines of text have room to breathe.
+
+And remember: every typeface is different. Just because 14px is easily legible in a sturdy sans-serif, doesn't mean that it will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
 
 
 ### Anatomy of a Letterform
@@ -134,7 +142,7 @@ When finding a font pairing with similar characteristics, we look for different 
 
 * **Letter Width** Like letter spacing, different fonts that have letters of similar widths will feel more closely related than ones that don't. For example, having a very narrow condensed font paired with a very wide font is likely to feel a bit awkward.
 
-* **Styles and Weight** Look for font families that include a true bold and italic set of fonts. You want options, so a good rule of thumb is to look for typefaces with at least 4 styles (usually regular, italic, bold, and bold italic). One of the most common and most terrible crimes against typography is to add a faux italic or bold to it (thanks for nothing, `strong` and `em` tags!). A true italic font has been specifically developed by the designer, where as a faux italic is physically stretching and warping the letterforms, losing the integrity and spirit of the font. Don't be a type criminal, just use better fonts.
+* **Styles and Weight** Look for font families that include a true bold and italic versions. You want options, so a good rule of thumb is to look for typefaces with at least 4 styles (usually regular, italic, bold, and bold italic). One of the most common and most terrible crimes against typography is to add a faux italic or bold. A true italic font has been specifically developed by the designer, where as a faux italic is physically stretching and warping the letterforms, losing the integrity and spirit of the font. Don't be a type criminal, just use better fonts.
 
 ### Resources (from font pairing)
 
