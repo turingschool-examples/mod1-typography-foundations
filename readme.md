@@ -10,16 +10,13 @@ In this lesson we'll talk about:
 
 * the different between typeface and font
 * the different between serif and sans serif
+* font size and letter spacing
 * the structure of letterforms
 * a set of strategies to apply when looking for font pairings
 
 ### What is Typography
 
-Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use.
-
-As with any craft, there is quite a bit that goes into typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not it has serifs.
-
-Typography is a utilitarian tool to facilitate communication. When done well, it makes reading easier. When done _really_ well, our users don't even notice it.
+Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use. When done well, it makes reading easier. When done _really_ well, our users don't even notice it.
 
 The font choices you make have very real implications on how your user interprets and understands the content. For example: would you really take someone seriously if they set their resume in Papyrus, even if they had solid work experience? At the very least, it would make you question their judgement and their professionalism. At worst, you might pass on them completely because it would be difficult to consider them a serious candidate.
 
@@ -41,21 +38,19 @@ A font is each specific variation within a typeface. So, when we go to Google Fo
 
 ![type terms 5](images/type05.png)
 
-For a look at this topic from a designer's point of view, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
-
 ### Serif vs Sans Serif
 
 There are two primary classifications of typefaces: serif and sans serif. A serif is, basically, a small line added at the end of a stroke in a letter. Sans serif is simply a letterform without a serif.
 
 ![type terms 3](images/type03.png)
 
-Serif fonts are seen in historic documents and type examples, and were used in everything from text chiseled into stone by the Romans to the manuscripts produced by the first printing presses. It is commonly thought that serifs increase legibility in dense, printed blocks of text because the serifs lead the eye from letter to letter within words.
+It is commonly thought that serifs increase legibility in dense, printed blocks of text because the serifs lead the eye from letter to letter within words.
 
-Sans serif fonts are a more modern approach to type design, and they were used with great success in the famous Swiss Style of the 20th Century. Despite the name, this style gained traction not only in Switzerland but in Russia, Germany, and the Netherlands in the 1920's before becoming a true international movement in the 1960's. In an effort to find beauty in purpose and simplicity, sans serif typefaces were created to follow the idea that "form follows function". These principles are highly relevant to the web, and this [Smashing Magazine article](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/) is a fantastic dive into the history and modern applications of sans serif typefaces and the deep reaching influences of Swiss, or more correctly, International Style.
+Sans serif fonts are generally considered easier to read in large blocks of text on screens.
 
 ### Font Size and Line Height
 
-When assessing what the best font size is, it is typically best to start with your body text. We do this because body text generally is set in dense blocks of copy which means it has the potential to be the most difficult content on the page to read.
+When assessing what the most appropriate font size is for your content, it is typically best to start with your body text. We do this because body text generally is set in dense blocks of copy which means it has the potential to be the most difficult content on the page to read.
 
 First make sure that the point size is large enough. On screens, somewhere in the range of 14-24px is easiest to read.
 
@@ -97,7 +92,6 @@ When two or more characters are joined to form one character. Ligatures can repr
 ##### Counter
 The open space in a fully closed, or mostly close, letter, like "o" and "c". Some will say a counter only refers to a closed space, and refer to the the partially closed space in a "c" as an open counter.
 
-
 ##### Bowl
 The fully closed, rounded part of a letter.
 
@@ -108,8 +102,6 @@ The upward vertical stroke on a lowercase letter that extends upwards above the 
 
 ##### Descender
 The downward vertical stroke and falls below the baseline. Lowercase "g" and "p" are examples of letters with descenders.
-
-For a comprehensive and in-depth look at the anatomy of a letterform, take a look at [Typography Deconstructed](http://www.typographydeconstructed.com/).
 
 
 ### How to Make Good Font Pairings
@@ -144,7 +136,10 @@ When finding a font pairing with similar characteristics, we look for different 
 
 * **Styles and Weight** Look for font families that include a true bold and italic versions. You want options, so a good rule of thumb is to look for typefaces with at least 4 styles (usually regular, italic, bold, and bold italic). One of the most common and most terrible crimes against typography is to add a faux italic or bold. A true italic font has been specifically developed by the designer, where as a faux italic is physically stretching and warping the letterforms, losing the integrity and spirit of the font. Don't be a type criminal, just use better fonts.
 
-### Resources (from font pairing)
+### Homework reading
+
+* [A Pocket Guide to Master
+Every Day’s Typographic Adventures](http://www.typogui.de/)
 
 * These two (short!) chapters from [Professional Web Typography](https://prowebtype.com/)
 
@@ -152,21 +147,10 @@ When finding a font pairing with similar characteristics, we look for different 
 
   - [Selecting Body Text](https://prowebtype.com/selecting-body-text/)
 
+### Additional Helpful Resources
+
 * [Towards Combining Fonts](http://school.readymag.com/fonts/)
 
-* And because we love you, this explains how and why type misbehaves on screens: [Typography is Impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.6ms4yhl26)
+* [Typography is Impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.6ms4yhl26)
 
-
-### Resources (from intro to typography)
-
-[Smashing Magazine: The Good, The Bad And The Great Examples Of Web Typography](https://www.smashingmagazine.com/2014/12/the-good-the-bad-and-the-great-examples-of-web-typography/)
-
-[Smashing Magazine: Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
-
-[Smashing Magazine: Tools And Resources For A More Meaningful Web Typography ](https://www.smashingmagazine.com/2016/03/meaningful-web-typography/)
-
-[Thinking with Type: Letter](http://www.thinkingwithtype.com/contents/letter/)
-
-[Typography Deconstructed](http://www.typographydeconstructed.com/)
-
-[Font Pair](http://fontpair.co/)
+* [Font Pair](http://fontpair.co/)
