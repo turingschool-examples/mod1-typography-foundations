@@ -65,6 +65,8 @@ Next, make sure your line spacing is appropriate and enhances the legibility of 
 
 And remember: every typeface and use case is different. Just because 14px might be easily legible in a sturdy sans-serif, doesn't mean that 14px will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
 
+Here's a [Code Pen example to play around with](http://codepen.io/LouisaBarrett/pen/oBQYoe?editors=0100). There are 3 different fonts linked, see what different font sizes and letter spacing look like for each of them. See what adjusting the width of the content does to legibility.
+
 
 ### Anatomy of a Letterform
 
