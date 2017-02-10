@@ -33,15 +33,15 @@ You've probably heard these two terms tossed around and used interchangeably, bu
 
 ##### Typeface
 
-A typeface is a collection of fonts. It is made up of the grouping of various italic, bold, thin weights that a type designer has recreated to give variation to their work.
+A typeface is a collection of fonts. It is made up of all the italic, bold, and thin weights that a type designer has created to give variation to their work.
 
 You select a typeface and then use the fonts within it.
 
-For example, the typeface Helvetica has Light, Bold, and Oblique fonts. You might you a bold font for headers, a light font for body copy, and an oblique (or italic) font for pull quotes.
+For example: the typeface Helvetica has Light, Bold, and Oblique fonts. You might you a bold font for headers, a light font for body copy, and an oblique (a fancy word for "italic") font for pull quotes.
 
 ##### Font
 
-A font is each specific variation within a typeface. So, when we go to Google Fonts we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the context of printed text, fonts are what is actually used to print the text.
+A font is each specific variation within a typeface. So, when we go to Google Fonts and we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the context of printed text, fonts are what is actually used to print the text.
 
 ![type terms 5](images/type05.png)
 
@@ -115,9 +115,9 @@ The downward vertical stroke and falls below the baseline. Lowercase "g" and "p"
 
 Now that you've got some vocabulary in your design toolkit, let's talk about font pairs.
 
-First thing's first: You can accomplish a lot with font in 2-3 weights. You don't have to dive straight in to mixing fonts! After all, it's hard enough to find one font that looks nice, so how in the world are we supposed to find two?
+First thing's first: You can accomplish a lot with one well constructed typeface that has 2-3 font weights. You don't have to dive straight in to mixing fonts! After all, it can be hard to find one font that looks nice, how in the world are we supposed to find two?
 
-Well, if you follow a few guidelines you can take some of the guesswork out of font pairings. It turns out you can apply many of the same principles that help guide you in choosing one well constructed, quality font when you're looking for two that pair nicely.
+If you follow a few guidelines you can take some of the guesswork out of font pairings. You can apply many of the same principles that help guide you in choosing one well constructed, quality font when you're looking for two that pair nicely.
 
 ### Form and Structure
 
