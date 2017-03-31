@@ -63,9 +63,11 @@ First make sure that the point size is large enough. For body copy on screens, s
 
 Next, make sure your line spacing is appropriate and enhances the legibility of your content rather than detract from it. Line spacing, or "leading" in traditional print media, should be somewhere between 120% and 145% of the font size. This assures that your lines of text have room to breathe. If it's too tight, your lines of text will visually mash into each other and legibility will take a nose dive.
 
+It is worth noting that *line length* impacts legibility as well. The ideal line length for text is between 45 and 75 characters, with around 66 characters being most readable. Go longer than 75 characters and it becomes difficult to track across the whole line as well as difficult for your eye to get to the starting point of the next line. Go much shorter than 45 and it breaks the content up too abruptly making reading difficult.
+
 And remember: every typeface and use case is different. Just because 14px might be easily legible in a sturdy sans-serif, doesn't mean that 14px will be large enough in a more delicate serif. When trying out a new typeface, play around with font size and letter spacing to make sure it's easy to read.
 
-Here's a [Code Pen example to play around with](http://codepen.io/LouisaBarrett/pen/oBQYoe?editors=0100). There are 3 different fonts linked, see what different font sizes and letter spacing look like for each of them. See what adjusting the width of the content does to legibility.
+Here's a [Code Pen example to play around with](http://codepen.io/LouisaBarrett/pen/oBQYoe?editors=0100). There are different fonts linked, see what different font sizes and letter spacing look like for each of them. See what adjusting the width of the content does to legibility.
 
 
 ### Anatomy of a Letterform
